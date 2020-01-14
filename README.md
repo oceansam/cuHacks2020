@@ -1,2 +1,2 @@
 # cuHacks2020
- project for cuHacks
+Project during the Carleton Hackathon 2020
